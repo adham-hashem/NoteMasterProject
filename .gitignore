@@ -1,0 +1,17 @@
+# Ignore node_modules for React
+frontend/node_modules/
+
+# Ignore vs files
+backend/.vs/
+
+# Ignore build directories for .NET
+backend/WebApplication2/bin/
+backend/WebApplication2/obj/
+
+# Ignore .NET secrets
+backend/WebApplication2/appsettings.json
+backend/WebApplication2/appsettings.Development.json
+
+# Ignore system files
+.DS_Store
+*.log

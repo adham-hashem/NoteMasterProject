@@ -1,0 +1,19 @@
+﻿- Adding .env file to use environment variables
+
+- Using services before using controllers
+
+- Using DDD
+Creating repositories
+
+- Email sender
+forget password
+
+- If the user is ethenticated, if someone sends to the api of the user info, it must not tell
+	int of the user, it must tell about if user want about its info only.
+
+- How to prevent overflow for email in register and login
+
+- Create the ExpiredTokens table to the database (id, token), to use it to store the
+	expired tokens
+
+- Create Contacts table to store the contacts of the website users
