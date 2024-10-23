@@ -1,0 +1,10 @@
+# Ensure that text files use LF in the repositories but CRLF on Windows
+* text=auto
+
+# Explicitly
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.json text eol=lf
